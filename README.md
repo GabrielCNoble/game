@@ -11,7 +11,7 @@ uma boa. Ja ví jogos onde até quatro pessoas usam o mesmo teclado. Ficou meio ba
 parte de internet da SDL. Eu não tentei (ainda), mas deve ser de buenas.
 
 Tentar iniciar o jogo sem criar uma câmera também dá problemas. Uma coisa que deve ser modificada é a função 
-void move_camera_to(), em camera.cpp, linha 57. Essa função está usando valores hard coded da resolução da tela. Ela obviamente deve se adaptar a resolução
+move_camera_to(), em camera.cpp, linha 57. Essa função está usando valores hard coded pra resolução da tela. Ela obviamente deve se adaptar a resolução
 que se está usando.
 
 Outras coisitas mais não foram implementadas...
