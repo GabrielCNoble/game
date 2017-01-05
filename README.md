@@ -31,4 +31,4 @@ algoritmo A* (A-star ). Ele é relativamente simples. O problema é que ele usa gr
 padrão. Eu não sei.
 
 Pra quem estava na aula (ou não), e conseguiu entender alguma coisa (ou não), faça bom uso, e qualquer dúvida, é so me mandar e-mail, ou whatsapp, 
-ou telegram, ou carta, ou mensagem de fumaça, ou mensagem psíquica, etc etc.
+ou telegram, ou carta, ou mensagem de fumaça, ou mensagem telepática, etc etc.
